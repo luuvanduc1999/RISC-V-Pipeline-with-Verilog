@@ -1,4 +1,4 @@
 Stage:
-![image](img/pipeline.png)
+![image](/img/pipeline.png)
 
 
